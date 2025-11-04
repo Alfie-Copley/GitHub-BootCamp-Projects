@@ -4,7 +4,7 @@ Summary of the Work I have completed with JustIT
 
 # Week 1 - Data Technician Workbook Summary
 
-## Day 1: Data Laws and Regulations
+## Task – Data Laws and Regulations
 Researched and explained key UK data protection laws including:
 - **Data Protection Act**: governs secure and fair use of personal data.
 - **GDPR**: EU-wide law for personal data privacy and control.
@@ -12,17 +12,17 @@ Researched and explained key UK data protection laws including:
 - **Computer Misuse Act**: prohibits unauthorised access or cybercrime.
 Each section outlined what the law is, why it matters, real-world examples, and consequences of breaches.
 
-## Day 2: Excel Practice
+## Task – Excel Practice
 - Created tables, sorted data, and used SUM and AVERAGE functions.
 - Analyzed dataset performance for English, Math, and Science.
 - Practiced using Excel formulas and sorting/filtering tools.
 
-## Day 3: Pivot Tables & SWITCH Function
+## Task – Pivot Tables & SWITCH Function
 - Created Pivot Tables using sales data by region and product.
 - Applied the `SWITCH` function to classify sales volumes (High, Medium, Low).
 - Analyzed bike sales by demographics and region, identifying profitability patterns.
 
-## Day 4: Presentation Preparation
+## Task – Presentation Preparation
 - Researched how to prepare and deliver data findings to senior leaders.
 - Discussed presentation tools, public speaking, and visualization best practices.
 - Evaluated tools for data visualisation and delivery effectiveness.
@@ -33,19 +33,19 @@ Each section outlined what the law is, why it matters, real-world examples, and 
 
 #Workbook Week 2 Summary
 
-## Day 1: Tableau Introduction
+## Task – Tableau Introduction
 - Compared Tableau versions: Desktop, Public, Server, Cloud, and supporting tools.
 - Explained Tableau Public limitations: all data is public, limited connectors, no live updates.
 
-## Day 2: Data Analysis Projects
+## Task – Data Analysis Projects
 - **Spotify Dataset**: Discovered songs with higher “danceability” and pop genre were most popular.
 - **Health Dataset**: Analyzed healthcare trends and reflected on data use within the NHS for decision-making.
 
-## Day 3: Power BI Labs
+## Task – Power BI Labs
 - **Lab 1:** Imported data into Power BI Desktop.
 - **Lab 2:** Transformed and loaded cleaned data.
   
-## Day 4: Power BI Reports and Dashboards
+## Task – Power BI Reports and Dashboards
 - **Lab 6:** Designed professional Power BI report layouts.
 - **Lab 9:** Created interactive dashboards.
 <img width="464" height="553" alt="Tableau Screenshot" src="https://github.com/user-attachments/assets/b51f15de-ab84-486e-bd83-ca07ff175fc8" />
@@ -55,7 +55,7 @@ Each section outlined what the law is, why it matters, real-world examples, and 
 
 # Database Concepts Workbook Summary Week 3
 
-## Day 1: Task 1 – Database Fundamentals
+## Task – Database Fundamentals
 Explored key database concepts and relationships:
 - **Primary Key** – Uniquely identifies each record in a table; must be unique and non-null.
 - **Secondary Key** – A candidate key not chosen as the primary; may allow duplicates or nulls.
@@ -66,7 +66,7 @@ Explored key database concepts and relationships:
 - **One-to-Many:** Customer → Orders, Author → Books, Department → Employees  
 - **Many-to-Many:** Students ↔ Courses, Movies ↔ Actors, Products ↔ Orders (via junction tables)
 
-## Day 1: Task 2 – Relational vs Non-Relational Databases
+## Task – Relational vs Non-Relational Databases
 ### Relational Databases (RDBMS)
 - Store data in structured tables with relationships defined by primary and foreign keys.
 - Use SQL for queries (e.g., MySQL, PostgreSQL).
@@ -77,7 +77,7 @@ Explored key database concepts and relationships:
 
 **Example:** E-commerce product catalogues benefit from NoSQL due to variable product attributes and scalability.
 
-## Day 3: Task 1 – SQL JOIN Types
+## Task – SQL JOIN Types
 Explained six key join types and their uses:
 - **Self Join:** Relates a table to itself (e.g., employees and managers).  
 - **Inner Join:** Returns only matching rows from both tables (e.g., products with sales).  
@@ -86,7 +86,7 @@ Explained six key join types and their uses:
 - **Full Join:** Combines all rows from both tables, showing nulls where no matches exist (e.g., all students and all library cards).  
 - **Cross Join:** Combines every row with every row in another table (e.g., all colour and size combinations).
 
-## Day 4: Task 1 – Database Design Essay
+## Task – Database Design Essay
 Designed a database for a small retail business to manage inventory, sales, and loyalty data.
 
 ### Key Steps
@@ -108,7 +108,7 @@ Designed a database for a small retail business to manage inventory, sales, and 
    ```
 5. **Maintenance:** Regular backups, accuracy checks, and data security measures.
 
-## Day 4: Task 2 – SQL Practical Scenarios
+##Task – SQL Practical Scenarios
 Applied SQL queries to solve real-world data problems using the `world_db` dataset.
 
 ### Example Scenarios
@@ -155,7 +155,7 @@ Researched fundamental cloud computing concepts and business benefits.
 
 ---
 
-## Day 1: Task 2 – Cloud Service Models
+## Task – Cloud Service Models
 
 ### IaaS – Infrastructure as a Service
 - Virtualised computing resources (servers, networks, storage).  
@@ -174,7 +174,7 @@ Researched fundamental cloud computing concepts and business benefits.
 
 ---
 
-## Day 1: Task 3 – Cloud Deployment Models
+## Task – Cloud Deployment Models
 
 | Cloud Model | Description | Example Use Case |
 |--------------|--------------|------------------|
@@ -185,9 +185,9 @@ Researched fundamental cloud computing concepts and business benefits.
 
 ---
 
-## Day 2: Task 1 – Computer Misuse Act and Data Protection
+## Computer Misuse Act and Data Protection
 
-### Computer Misuse Act (1990)
+### Task – Computer Misuse Act (1990)
 Addresses unauthorised computer activity:
 1. **Unauthorised Access** – Accessing data/systems without permission (e.g., student viewing confidential files).  
 2. **Access with Intent to Commit Offences** – Hacking to commit fraud or theft (e.g., stealing banking info).  
@@ -218,10 +218,10 @@ Covers legislation such as:
 
 ---
 
-## Day 3: Task 1 – Explore Relational Data in Azure
+## Task – Explore Relational Data in Azure
 Completed Lab 3: Investigated relational data within Azure environments using SQL-based queries, examining data structure, table relationships, and storage principles.
 
-## Day 3: Task 2 – Explore Non-Relational Data in Azure
+## Task – Explore Non-Relational Data in Azure
 Completed Lab 4: Explored non-relational (NoSQL) data models in Azure, focusing on flexible data formats, scalability, and real-world cloud-based data handling.
 
 <img width="713" height="600" alt="Azure Screenshot" src="https://github.com/user-attachments/assets/32e3622c-f741-4951-bd7c-fb7bb5c81dac" />
@@ -231,12 +231,12 @@ Completed Lab 4: Explored non-relational (NoSQL) data models in Azure, focusing 
 **Overall Focus:**  
 Developed foundational cloud computing knowledge — from service models and deployment types to cybersecurity and data protection laws — with practical cloud labs in Microsoft Azure.
 
-#Workbook Week 5 Summary
 
-## Day 2: Python Basics
+
+## Python Basics
 - Created **FizzBuzz** using Python conditional logic and loops.
 
-## Day 3: Pandas Data Handling
+## Pandas Data Handling
 Completed exercises with `student.csv` covering:
 - **Data Loading & Exploration:** `read_csv`, `.head()`, `.info()`, `.describe()`
 - **Indexing & Slicing:** Selected columns and filtered rows.
