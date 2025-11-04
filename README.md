@@ -233,7 +233,7 @@ Developed foundational cloud computing knowledge — from service models and dep
 
 
 
-## Week 5 - Python Basics
+# Week 5 - Python Basics
 - Created **FizzBuzz** using Python conditional logic and loops.
 
 ## Pandas Data Handling
