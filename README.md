@@ -31,7 +31,7 @@ Each section outlined what the law is, why it matters, real-world examples, and 
 ---
 **Overall Focus:** Developing understanding of data protection laws, Excel data analysis, pivot tables, and professional presentation skills.
 
-#Workbook Week 2 Summary
+# Week 2 - Tableau
 
 ## Task – Tableau Introduction
 - Compared Tableau versions: Desktop, Public, Server, Cloud, and supporting tools.
@@ -53,7 +53,7 @@ Each section outlined what the law is, why it matters, real-world examples, and 
 ---
 **Overall Focus:** Building visualisation and data storytelling skills using Tableau and Power BI.
 
-# Database Concepts Workbook Summary Week 3
+# Week 3 - Database Concepts 
 
 ## Task – Database Fundamentals
 Explored key database concepts and relationships:
@@ -126,7 +126,7 @@ Applied SQL queries to solve real-world data problems using the `world_db` datas
 Developed a comprehensive understanding of database structures, relationships, SQL joins, and practical data analysis.  
 Learned how to design, implement, and query a functional database system using real-world scenarios.
 
-# Cloud Computing Workbook Summary Week 4
+# Week 4 - Cloud Computing Workbook
 
 ## Day 1: Task 1 – Introduction to Cloud Computing
 Researched fundamental cloud computing concepts and business benefits.
@@ -233,7 +233,7 @@ Developed foundational cloud computing knowledge — from service models and dep
 
 
 
-## Python Basics
+## Week 5 - Python Basics
 - Created **FizzBuzz** using Python conditional logic and loops.
 
 ## Pandas Data Handling
