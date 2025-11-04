@@ -26,6 +26,7 @@ Each section outlined what the law is, why it matters, real-world examples, and 
 - Researched how to prepare and deliver data findings to senior leaders.
 - Discussed presentation tools, public speaking, and visualization best practices.
 - Evaluated tools for data visualisation and delivery effectiveness.
+<img width="537" height="75" alt="Excel Screenshot" src="https://github.com/user-attachments/assets/5b6e3c17-856a-464a-b8e4-9a8596f4d446" />
 
 ---
 **Overall Focus:** Developing understanding of data protection laws, Excel data analysis, pivot tables, and professional presentation skills.
@@ -47,6 +48,7 @@ Each section outlined what the law is, why it matters, real-world examples, and 
 ## Day 4: Power BI Reports and Dashboards
 - **Lab 6:** Designed professional Power BI report layouts.
 - **Lab 9:** Created interactive dashboards.
+<img width="464" height="553" alt="Tableau Screenshot" src="https://github.com/user-attachments/assets/b51f15de-ab84-486e-bd83-ca07ff175fc8" />
 
 ---
 **Overall Focus:** Building visualisation and data storytelling skills using Tableau and Power BI.
@@ -117,8 +119,9 @@ Applied SQL queries to solve real-world data problems using the `world_db` datas
 - **Sorting and Limiting Results** – Show first 10 cities, or rows 31–40 by population.  
 - **Geographic Queries** – Find European cities, capital of Spain, and average population per country.  
 - **Comparisons** – Capital city populations, high GDP per capita cities, and countries with low density.  
+<img width="239" height="324" alt="SQL screenshot" src="https://github.com/user-attachments/assets/2de6c739-3c36-4c53-9f6f-f958e385b2e8" />
 
----
+
 **Overall Focus:**  
 Developed a comprehensive understanding of database structures, relationships, SQL joins, and practical data analysis.  
 Learned how to design, implement, and query a functional database system using real-world scenarios.
@@ -221,6 +224,8 @@ Completed Lab 3: Investigated relational data within Azure environments using SQ
 ## Day 3: Task 2 – Explore Non-Relational Data in Azure
 Completed Lab 4: Explored non-relational (NoSQL) data models in Azure, focusing on flexible data formats, scalability, and real-world cloud-based data handling.
 
+<img width="713" height="600" alt="Azure Screenshot" src="https://github.com/user-attachments/assets/32e3622c-f741-4951-bd7c-fb7bb5c81dac" />
+
 ---
 
 **Overall Focus:**  
@@ -243,6 +248,8 @@ Completed exercises with `student.csv` covering:
 ## Day 4: Real-World Data Work
 - Analyzed `GDP (nominal) per Capita.csv` — viewed rows, selected columns.
 - Worked through collaborative Jupyter Notebook to apply learned data analysis and visualization techniques.
+
+<img width="458" height="742" alt="PythonScreenshot" src="https://github.com/user-attachments/assets/836d4848-4c46-45d0-beba-34af5622a612" />
 
 ---
 **Overall Focus:** Strengthened Python skills for data analysis and manipulation using pandas, preparing data for visualization and reporting.
