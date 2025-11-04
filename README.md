@@ -30,7 +30,7 @@ Each section outlined what the law is, why it matters, real-world examples, and 
 ---
 **Overall Focus:** Developing understanding of data protection laws, Excel data analysis, pivot tables, and professional presentation skills.
 
-# Alfie Copley - Workbook Week 2 Summary
+#Workbook Week 2 Summary
 
 ## Day 1: Tableau Introduction
 - Compared Tableau versions: Desktop, Public, Server, Cloud, and supporting tools.
@@ -226,7 +226,7 @@ Completed Lab 4: Explored non-relational (NoSQL) data models in Azure, focusing 
 **Overall Focus:**  
 Developed foundational cloud computing knowledge — from service models and deployment types to cybersecurity and data protection laws — with practical cloud labs in Microsoft Azure.
 
-# Alfie Copley - Workbook Week 5 Summary
+#Workbook Week 5 Summary
 
 ## Day 2: Python Basics
 - Created **FizzBuzz** using Python conditional logic and loops.
